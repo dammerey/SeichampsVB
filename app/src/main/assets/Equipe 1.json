@@ -1,0 +1,75 @@
+{
+  "nom": "Equipe 1",
+  "listeJoueurs": {
+    "1 900 004": {
+      "nom": "Dammerey",
+      "prenom": "Maxime",
+      "numLicence": "1 900 004",
+      "telephone": "06.48.76.42.59",
+      "adresse": "10 allée des Bouleaux,\n 544420 Saulxures-Les-Nancy"
+    },
+    "1 857 047": {
+      "nom": "Campaner",
+      "prenom": "Frederic",
+      "numLicence": "1 857 047",
+      "telephone": "06.63.63.33.21",
+      "adresse": "20 chemin du petit étang,\n 54110 Buissoncourt"
+    },
+    "1 408 658": {
+      "nom": "Chollot",
+      "prenom": "Nicolas",
+      "numLicence": "1 408 658",
+      "telephone": "06.73.11.13.16",
+      "adresse": "10 allée des Pinsons,\n 54280 Seichamps"
+    },
+    "1 814 755": {
+      "nom": "Chalon",
+      "prenom": "Benjamin",
+      "numLicence": "1 814 755",
+      "telephone": "06.87.80.38.76",
+      "adresse": "1 rue RPre,\n 54280 velaine-Sous-Amence"
+    },
+    "1 805 279": {
+      "nom": "Milnis",
+      "prenom": "Vincent",
+      "numLicence": "1 805 279",
+      "telephone": "06.09.98.18.20",
+      "adresse": "18 Avenue de l'Europe,\n 54280 Seichamps"
+    },
+    "2 281 917": {
+      "nom": "Pons Bosch",
+      "prenom": "Bartomeu",
+      "numLicence": "2 281 917",
+      "telephone": "07.68.55.29.34",
+      "adresse": "I"
+    },
+    "1 768 247": {
+      "nom": "Seigneur",
+      "prenom": "Eloi",
+      "numLicence": "1 768 247",
+      "telephone": "06.43.18.21.39",
+      "adresse": "18 Allée Francois Flageollet,\n54270 Essey-Les-Nancy"
+    },
+    "1 835 790": {
+      "nom": "Carnin",
+      "prenom": "Charles",
+      "numLicence": "1 835 790",
+      "telephone": "06.83.75.11.73",
+      "adresse": "19 rue Jean Ferrat,\n 54510 Tomblaine"
+    },
+    "1953511": {
+      "nom": "Chollot",
+      "prenom": "Clement",
+      "numLicence": "1953511",
+      "telephone": "06.77.12.00.77",
+      "adresse": "62 rue Saint Georges,\n 54000 Nancy"
+    },
+    "2250332": {
+      "nom": "Grare",
+      "prenom": "David",
+      "numLicence": "2250332",
+      "telephone": "06.06.76.98.11",
+      "adresse": "1 Grand Rue,\n 54000 Nancy"
+    }
+  }
+}

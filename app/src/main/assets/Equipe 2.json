@@ -1,0 +1,82 @@
+{
+  "nom": "Equipe 2",
+  "listeJoueurs": {
+    "1997517": {
+      "nom": "Genin",
+      "prenom": "Laurent",
+      "numLicence": "1997517",
+      "telephone": "06.74.74.41.67",
+      "adresse": "106 rue des Parterres Fleuris,\n 54280 Seichamps"
+    },
+    "2700301": {
+      "nom": "Guillaume",
+      "prenom": "Remi",
+      "numLicence": "2700301",
+      "telephone": "06.31.39.59.77",
+      "adresse": "1 avenue du Quebec,\n 54280 Seichamps"
+    },
+    "2702640": {
+      "nom": "Marchal",
+      "prenom": "Eric",
+      "numLicence": "2702640",
+      "telephone": "06.86.54.10.57",
+      "adresse": "92 avenue de la République,\n 54520 Laxou"
+    },
+    "955639": {
+      "nom": "Marchal",
+      "prenom": "Laurence",
+      "numLicence": "955639",
+      "telephone": "06.75.93.57.40",
+      "adresse": "5 rue d'Auvergne,\n 54425 Pulnoy"
+    },
+    "1871271": {
+      "nom": "Reihl",
+      "prenom": "Maîa",
+      "numLicence": "1871271",
+      "telephone": "06.67.72.59.00",
+      "adresse": "104 rue Jeanne d'Arc,\n 54280 Seichamps"
+    },
+    "2502972": {
+      "nom": "Soto Gutierrez",
+      "prenom": "Stéphanie",
+      "numLicence": "2502972",
+      "telephone": "07.60.85.00.27",
+      "adresse": "18 rue Pablo Picasso,\n 54510 Tomblaine"
+    },
+    "2690821": {
+      "nom": "Ternat",
+      "prenom": "Guillaume",
+      "numLicence": "2690821",
+      "telephone": "06.72.60.77.09",
+      "adresse": "2 rue Johannes Gutenber,\n 54420 Pulnoy"
+    },
+    "2795308": {
+      "nom": "Wimmer",
+      "prenom": "Emeric",
+      "numLicence": "2795308",
+      "telephone": "07.70.38.54.77",
+      "adresse": "19 rue du Neuf Chemin,\n 54420 Saulxures-Les-Nancy"
+    },
+    "2592579": {
+      "nom": "Da Silva",
+      "prenom": "Marie",
+      "numLicence": "2592579",
+      "telephone": "06.21.99.17.33",
+      "adresse": "3 rue de Verdun,\n 54270 Essey-Les-Nancy"
+    },
+    "1118097": {
+      "nom": "Cousseran",
+      "prenom": "Francois",
+      "numLicence": "1118097",
+      "telephone": "",
+      "adresse": "3 rue Clément Ader,\n 54420 Saulxures-Les-Nancy"
+    },
+    "2691506": {
+      "nom": "Courtois",
+      "prenom": "Guillaume",
+      "numLicence": "2691506",
+      "telephone": "06.79.45.55.85",
+      "adresse": "4 rue Blaise Pascal,\n 54280 Seichamps"
+    }
+  }
+}
