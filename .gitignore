@@ -15,4 +15,5 @@
 local.properties
 /Version/
 /capture ecran/
-
+/app/src/main/assets/
+/app/release/
